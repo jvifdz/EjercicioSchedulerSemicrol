@@ -15,6 +15,7 @@ namespace EjercicioSchedulerSemicrol
         public Form1()
         {
             InitializeComponent();
+            
         }
     }
 }
